@@ -1,4 +1,4 @@
-﻿<h3>EasyTask -- 原生常驻内存定时任务  <h4>(bug反馈QQ群60973229)</h4></h3>
+﻿<h3>EasyTask -- 原生常驻内存定时任务  
 ===============
 
 > 运行环境：windows | linux | macos 
@@ -147,5 +147,7 @@ windows支持的函数:setPrefix(),addCommand(),start(),
 windows必须使用cmd管理员权限执行
 windows不可保证稳定性,排查跟踪困难
 ~~~
+
+Power by shuxian.
 
 
