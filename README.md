@@ -14,12 +14,12 @@
 ## <h4>【二】 Composer安装</h4>
 
 ~~~
-  composer require easy-task/easy-task
+  composer require shuxian/easy-task
 ~~~
 
 ~~~
   "require": {
-    "easy-task/easy-task": "*"
+    "shuxian/easy-task": "*"
   }
 ~~~
 
